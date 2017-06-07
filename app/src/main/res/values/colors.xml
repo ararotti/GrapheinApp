@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary">#1395ba</color>
+    <color name="primary_dark">#1286a8</color>
+    <color name="primary_light">#43abc8</color>
+    <color name="accent">#f16c20</color>
+
+    <color name="primary_text">#333333</color>
+    <color name="secondary_text">#7f7f7f</color>
+    <color name="disabled_text">#a4a4a4</color>
+    <color name="divider">#e0e0e0</color>
+    <color name="icons">#FFFFFF</color>
+    <color name="white">#FFFFFF</color>
+
+    <color name="darkestCoral">#c2561a</color>
+    <color name="darkerCoral">#da611e</color>
+    <color name="coral">#f16c20</color>
+    <color name="lighterCoral">#f58a4b</color>
+    <color name="lightestCoral">#fbe1d2</color>
+
+    <color name="darkestAlice">#107895</color>
+    <color name="darkerAlice">#1286a8</color>
+    <color name="alice">#1395ba</color>
+    <color name="lighterAlice">#43abc8</color>
+    <color name="lightestAlice">#d0eaf0</color>
+
+</resources>
