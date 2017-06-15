@@ -10,4 +10,7 @@
     <dimen name="standard_55">55dp</dimen>
     <dimen name="standard_100">100dp</dimen>
     <dimen name="standard_145">145dp</dimen>
+
+    <dimen name="parallax_image_height">207dp</dimen>
+    <dimen name="intersection_height">16dp</dimen>
 </resources>

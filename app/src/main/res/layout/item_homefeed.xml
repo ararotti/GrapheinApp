@@ -60,11 +60,12 @@
 
         <ImageView
             android:layout_width="match_parent"
-            android:id="@+id/title_photo"
+            android:id="@+id/historyPhoto"
             android:src="@drawable/ferrari_v9s"
             android:layout_height="wrap_content"
             android:scaleType="fitStart"
             android:adjustViewBounds="true"
+            android:transitionName="historyPhoto"
             />
 
         <TextView
@@ -77,6 +78,7 @@
             android:layout_marginLeft="8dp"
             android:layout_marginRight="8dp"
             android:layout_marginTop="4dp"
+            android:transitionName="historyTitle"
             />
 
         <TextView
