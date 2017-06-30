@@ -38,6 +38,12 @@ public class MainActivity extends AppCompatActivity {
         initUI();
     }
 
+    @Override
+    protected void onStart() {
+        super.onStart();
+        this.overridePendingTransition(R.anim.anim_leave, R.anim.anim_enter);
+    }
+
     private void initUI() {
 
         bottomNavigation = (AHBottomNavigation) findViewById(R.id.bottom_navigation);
